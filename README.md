@@ -1,4 +1,4 @@
-# puthon-toolbox---pandas
+# python-toolbox---pandas
 # Definition of countries and capital
 countries = ['spain', 'france', 'germany', 'norway']
 capitals = ['madrid', 'paris', 'berlin', 'oslo']
